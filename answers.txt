@@ -23,3 +23,9 @@ c.
 Sprint Planning Meetings - Discuss the sprint goal and the backlog item selection
 Daily Scrum (Stand-Up) - Discuss a progress Update and problem-solving
 Sprint Retrospective - Discuss what went well and areas for improvement
+
+d.
+Epic - A large body of work that can be broken down into multiple stories
+Story - A user-centric feature or requirement to be developed
+Bug - A problem or defect that needs fixing
+Task - A specific piece of work that is not necessarily user-focused
