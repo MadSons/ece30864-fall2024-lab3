@@ -11,3 +11,10 @@ Pros of Non-Agile Development
 Cons of Non-Agile Development
 - Less flexibility to change in the future.
 - Delayed feedback and risk identification.
+
+b. 
+The scrum master is the facilitator and and coach for the scrum team ensuring the team can work effectively.
+They facilitate scrum events, remove obstacles, coaches, protects the team, and ensures process adherence.
+
+The product owner represents the customer or stakeholder nad is responsible for maximizing the value of the product developed by the team.
+They define the product vision, manage product backlog, communicate with the stakeholder, and accept or reject work.
