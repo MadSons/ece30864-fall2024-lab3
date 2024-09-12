@@ -18,3 +18,8 @@ They facilitate scrum events, remove obstacles, coaches, protects the team, and 
 
 The product owner represents the customer or stakeholder nad is responsible for maximizing the value of the product developed by the team.
 They define the product vision, manage product backlog, communicate with the stakeholder, and accept or reject work.
+
+c.
+Sprint Planning Meetings - Discuss the sprint goal and the backlog item selection
+Daily Scrum (Stand-Up) - Discuss a progress Update and problem-solving
+Sprint Retrospective - Discuss what went well and areas for improvement
